@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727633151 source:c:\users\ayoub\desktop\boucles\boucle_ch\ex 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
